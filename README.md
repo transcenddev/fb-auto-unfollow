@@ -1,6 +1,6 @@
 # Facebook Auto Unfollow
 
-Automatically unfollows accounts from your Facebook Following page.
+Automatically unfollows accounts, pages, and groups from your Facebook Following page.
 
 ## Features
 
